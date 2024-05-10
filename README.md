@@ -22,7 +22,7 @@ This console application is based on a project in the following repository (<a h
   2. The main method now relies on the instantion of objects and accessing the object properties and methods instead of declaring local variables and methods that are static.
 * These changes have improved our application in that we are now able to use the method of one class in a different class because the methods are not static.
 ## Basic system diagram image
-<img src="recipeSystemDiagram.png" width="" height="500px" alt="Image of basic system functionalities.">
+<img src="Screenshot (177).png" width="" height="500px" alt="Image of basic system functionalities.">
 
 ## User instructions
 1. Clone project from git hub.
